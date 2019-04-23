@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CustomBindableProperty.CustomViews.CircularButton2View">
+    <ContentView.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="0">
+                <Label x:Name="InnerLabel1" Text="2" FontSize="Large" HorizontalOptions="Center"/>
+                <Label x:Name="InnerLabel2" Text="ABC" FontSize="Micro" TextColor="Silver"/>
+            </StackLayout>
+            <Button x:Name="InnerButton" BackgroundColor="Transparent" Grid.Row="0" Grid.Column="0" BorderWidth="3" BorderColor="Purple"/>
+        </Grid>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

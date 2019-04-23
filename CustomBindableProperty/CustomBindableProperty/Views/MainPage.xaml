@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:CustomBindableProperty.CustomViews" 
+             x:Class="CustomBindableProperty.Views.MainPage">
+    <StackLayout Margin="20" Spacing="10">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms Custom Button Without renderer!" HorizontalTextAlignment="Center"/>
+        <local:ImageButtonView ButtonText="Custom Button" Source="home.png" Command="{Binding CustomButtonCommand}" CommandParameter="1"/>
+        <local:CircularButtonView ButtonText="20" ButtonRadius="30" Command="{Binding CustomButtonCommand}" CommandParameter="2"/>
+        <local:CircularButton2View ButtonRadius="32" ButtonSubText="ABC" ButtonNumberText="2" Command="{Binding CustomButtonCommand}" CommandParameter="3"/>
+        
+        <Label Text="More..." HorizontalTextAlignment="Center"/>
+
+        <Button Text="List Item Click" Command="{Binding ButtonCommand}"/>
+        
+    </StackLayout>
+</ContentPage>

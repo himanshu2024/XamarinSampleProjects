@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="CustomBindableProperty.CustomViews.ImageButtonView">
+    <ContentView.Content>
+        <Frame CornerRadius="5" HasShadow="false" OutlineColor="Silver" BackgroundColor="#DEDEDE">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Image x:Name="InnerImage" VerticalOptions="CenterAndExpand"/>
+                <Label x:Name="InnerLabel" VerticalOptions="CenterAndExpand"/>
+            </StackLayout>
+            </Frame>
+    </ContentView.Content>
+</ContentView>

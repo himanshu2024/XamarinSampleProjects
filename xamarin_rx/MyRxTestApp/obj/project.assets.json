@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj",
+      "projectUniqueName": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj",
       "projectName": "MyRxTestApp",
-      "projectPath": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj",
+      "projectPath": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj",
       "packagesPath": "/Users/himanshuchaurasiya/.nuget/packages/",
-      "outputPath": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp/obj/",
+      "outputPath": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5E3F61EA-B29E-46B0-8FC2-D2EE7A0665C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomBindableProperty/Views/MyListPage.xaml">
+    <Files>
+      <File FileName="CustomBindableProperty/Views/MyListPage.xaml" />
+      <File FileName="CustomBindableProperty/Views/MyListPage.xaml.cs" Line="13" Column="24" />
+      <File FileName="CustomBindableProperty/ViewModels/MyListPageViewModel.cs" Line="22" Column="57" />
+      <File FileName="CustomBindableProperty/Models/MyListModel.cs" Line="29" Column="72" />
+      <File FileName="CustomBindableProperty/ViewModels/MainPageViewModel.cs" Line="9" Column="37" />
+      <File FileName="CustomBindableProperty/Views/MainPage.xaml" />
+      <File FileName="CustomBindableProperty/Events/ItemTappedAttached.cs" Line="7" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomBindableProperty.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CC25EABF-A2DB-4CFF-BA62-32ECBD0D6E61" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomBindableProperty.Android PreferredExecutionTarget="Android.Phone_API_O" />
+</Properties>

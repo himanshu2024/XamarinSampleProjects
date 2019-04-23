@@ -1034,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp.iOS/MyRxTestApp.iOS.csproj",
+      "projectUniqueName": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp.iOS/MyRxTestApp.iOS.csproj",
       "projectName": "MyRxTestApp.iOS",
-      "projectPath": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp.iOS/MyRxTestApp.iOS.csproj",
+      "projectPath": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp.iOS/MyRxTestApp.iOS.csproj",
       "packagesPath": "/Users/himanshuchaurasiya/.nuget/packages/",
-      "outputPath": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp.iOS/obj/",
+      "outputPath": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1053,8 +1053,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj": {
-              "projectPath": "/Users/himanshuchaurasiya/Projects/GithubProject/XamarinExamples/RX/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj"
+            "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj": {
+              "projectPath": "/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/MyRxTestApp.csproj"
             }
           }
         }

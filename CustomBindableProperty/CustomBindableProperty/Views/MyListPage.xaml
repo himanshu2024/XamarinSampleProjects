@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="CustomBindableProperty.Views.MyListPage"
+             xmlns:event="clr-namespace:CustomBindableProperty.Events">
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding ListModels}" HasUnevenRows="true"
+                  event:ItemTappedAttached.Command="{Binding ItemTapped}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Image Source="{Binding Photo}" HeightRequest="60" WidthRequest="60"/>
+                            <Label Text="{Binding Name}" VerticalOptions="Center"/>
+                        </StackLayout>
+                    </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+    </ContentPage.Content>
+</ContentPage>

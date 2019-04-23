@@ -1,0 +1,15 @@
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/bin/Debug/netstandard2.0/MyRxTestApp.deps.json
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/bin/Debug/netstandard2.0/MyRxTestApp.dll
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/bin/Debug/netstandard2.0/MyRxTestApp.pdb
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.csprojAssemblyReference.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/Views/FormsRxPage.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/Views/RxSearchBar.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/Views/TimerRxPage.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.csproj.CoreCompileInputs.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.AssemblyInfoInputs.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.AssemblyInfo.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.dll
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/xamarin_rx/MyRxTestApp/obj/Debug/netstandard2.0/MyRxTestApp.pdb
