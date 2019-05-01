@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-             x:Class="CustomBindableProperty.Views.MyListPage"
-             xmlns:event="clr-namespace:CustomBindableProperty.Events">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CustomBindableProperty.Views.MyListPage" xmlns:event="clr-namespace:CustomBindableProperty.Events" xmlns:events="clr-namespace:CustomBindableProperty.Behaviors" x:Name="currentPage">
     <ContentPage.Content>
-        <ListView ItemsSource="{Binding ListModels}" HasUnevenRows="true"
-                  event:ItemTappedAttached.Command="{Binding ItemTapped}">
+        <ListView ItemsSource="{Binding ListModels}" SeparatorVisibility="None" HasUnevenRows="true" SelectionMode="None">
+            
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal" Padding="10">
-                            <Image Source="{Binding Photo}" HeightRequest="60" WidthRequest="60"/>
-                            <Label Text="{Binding Name}" VerticalOptions="Center"/>
-                        </StackLayout>
+                        <Frame Margin="10,5,10,5" Padding="10" HasShadow="true" CornerRadius="6" Visual="Material">
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding Photo}" HeightRequest="60" WidthRequest="60" />
+                                <Label Text="{Binding Name}" VerticalOptions="Center" />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference currentPage}, Path=BindingContext.ItemClicked}" NumberOfTapsRequired="1" CommandParameter="{Binding .}" />
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                        </Frame>
                     </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </ContentPage.Content>
 </ContentPage>
+<!--
+There is many way to get list item click 
+1.*AttachedBehavior*  event:ItemTappedAttached.Command="{Binding ItemTapped}"
+2.*Behavior* <ListView.Behaviors>
+                <events:EventToCommandBehaviorView EventName="ItemTapped" Command="{Binding ItemClicked}"/>
+                </ListView.Behaviors>
+
+3.*TapGestureRecognizer* <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference currentPage}, Path=BindingContext.ItemClicked}" NumberOfTapsRequired="1" CommandParameter="{Binding .}" />
+                                </StackLayout.GestureRecognizers>-->

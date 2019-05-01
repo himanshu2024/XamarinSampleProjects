@@ -6,7 +6,7 @@ namespace CustomBindableProperty.ViewModels
 {
     public class MainPageViewModel : BaseViewModel
     {
-        public Command ButtonCommand { get; set; }
+        public Command<string> ButtonCommand { get; set; }
 
         public Command<string> CustomButtonCommand { get; set; }
         public MainPageViewModel(Page page, INavigation navigation)
@@ -14,7 +14,7 @@ namespace CustomBindableProperty.ViewModels
             _page = page;
             _navigation = navigation;
 
-            ButtonCommand = new Command(ButtonClicked);
+            ButtonCommand = new Command<string>(ButtonClicked);
             CustomButtonCommand = new Command<string>(CustomButtonClicked);
         }
 
@@ -23,9 +23,19 @@ namespace CustomBindableProperty.ViewModels
             _page.DisplayAlert("Clicked", "Custom Button "+param, "Ok");
         }
 
-        private void ButtonClicked()
+        private void ButtonClicked(string param)
         {
-            _navigation.PushAsync(new Views.MyListPage());
+            switch(param)
+            {
+                case "1":
+                    _navigation.PushAsync(new Views.MyListPage());
+
+                    break;
+                case "2":
+                    _navigation.PushAsync(new Views.MyTabbedPage());
+
+                    break;
+            }
         }
     }
 }

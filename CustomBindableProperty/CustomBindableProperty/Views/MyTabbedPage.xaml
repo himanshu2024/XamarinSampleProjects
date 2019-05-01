@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            x:Class="CustomBindableProperty.Views.MyTabbedPage"
+            xmlns:events="clr-namespace:CustomBindableProperty.Behaviors"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BarBackgroundColor="WhiteSmoke"
+            x:Name="listsPage">
+    <!--android:TabbedPage.IsSwipePagingEnabled="true"
+            android:TabbedPage.OffscreenPageLimit="2"
+            android:TabbedPage.IsSmoothScrollEnabled="false"
+            android:TabbedPage.BarItemColor="Black"
+            android:TabbedPage.BarSelectedItemColor="Red"-->
+    
+    
+    
+    <TabbedPage.Behaviors>
+        <events:EventToCommandBehavior EventName="CurrentPageChanged" Command="{Binding CurrentPageChangedCommand}" CommandParameter="{Binding ., Source={Reference listsPage}}" />
+    </TabbedPage.Behaviors>
+    <!--Pages can be added as references or inline-->
+    <ContentPage Title="Tab 1" Icon="home.png" BackgroundColor="White">
+        <ContentPage.Content>
+            <Label Text="Welcome Tab 1"/>
+            </ContentPage.Content>
+    </ContentPage>
+    <ContentPage Title="Tab 2" Icon="home.png" BackgroundColor="White">
+        <ContentPage.Content>
+            <Label Text="Welcome Tab 2"/>
+            </ContentPage.Content>
+    </ContentPage>
+    <ContentPage Title="Tab 3" Icon="home.png" BackgroundColor="White">
+        <ContentPage.Content>
+            <Label Text="Welcome Tab 3"/>
+            </ContentPage.Content>
+    </ContentPage>
+    <ContentPage Title="Tab 4" Icon="home.png" BackgroundColor="White">
+        <ContentPage.Content>
+            <Label Text="Welcome Tab 4"/>
+            </ContentPage.Content>
+    </ContentPage>
+    
+</TabbedPage>

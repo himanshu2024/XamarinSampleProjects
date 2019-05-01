@@ -8,13 +8,23 @@ Function=xamarin_log
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_get_locale_country_code
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_start_wwan
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
 Function=xamarin_find_protocol_wrapper_type
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_release_block_on_main_thread
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=xamarin_start_wwan
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
 Function=xamarin_get_block_descriptor
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend
@@ -372,6 +382,14 @@ Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
 Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
@@ -969,16 +987,424 @@ Function=xamarin_localized_string_format_9
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_init_nsthread
 	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=CreateZStream
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
-Function=CloseZStream
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
-Function=Flush
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
-Function=ReadZStream
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
-Function=WriteZStream
-	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldFontThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionNumber
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionString
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultMinTextFieldWidth
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultContentEdgeInsets
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipField
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorTransition
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertAction
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBar
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarContainerViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarNavigationController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicColorScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicFontScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerPresentationController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerTransitionController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBar
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetControllerShapeThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetPresentationController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetTransitionController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButton
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBar
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarButton
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonShapeThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTitleColorAccessibilityMutator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCard
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardCollectionCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsShapeThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewFlowLayout
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewFontThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewShapeThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kDeselectedCellAccessibilityHintKey
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kSelectedCellAccessibilityHintKey
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCollectionViewCellStyleCardSectionInset
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewFlowLayout
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewLayoutAttributes
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineHeight
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineWithAvatarHeight
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultThreeLineHeight
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultTwoLineHeight
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewTextCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCornerTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedCornerTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedRectShapeGenerator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCutCornerTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogPresentationController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogTransitionController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCEdgeTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightAccessibilityMutator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightFontThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kMDCFeatureHighlightOuterHighlightAlpha
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFilledTextFieldColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlatButton
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderContainerViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingActionButtonThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButton
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonShapeThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackViewColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIcons
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkGestureRecognizer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkTouchController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIntrinsicHeightTextView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillChangeFrameNotification
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillHideNotification
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillShowNotification
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCKeyboardWatcher
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCLibraryInfo
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMaskedTransitionController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMultilineTextField
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBar
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTextColorAccessibilityMutator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNumericValueLabel
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedTextFieldColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayObserver
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayWindow
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControl
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControlColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent100Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent200Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent400Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent700Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint100Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint200Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint300Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint400Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint500Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint50Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint600Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint700Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint800Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint900Name
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPalette
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPathGenerator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPillShapeGenerator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressViewColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRaisedButton
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRectangleShapeGenerator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRoundedCornerTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSelfSizingStereoCell
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSemanticColorScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowLayer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowMetrics
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeCategory
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedShadowLayer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlantedRectShapeGenerator
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlider
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSliderColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarFontThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarManager
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageBoldAttributeName
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageDurationMax
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessage
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageAction
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSystemFontLoader
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBar
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarFontThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarIndicatorAttributes
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarTypographyThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarUnderlineIndicatorTemplate
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTabBarViewControllerAnimationDuration
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarViewController
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonColorThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonThemer
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextFieldTextDidSetTextNotification
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputDidToggleEnabledNotification
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextField
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputAllCharactersCounter
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputBorderView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputControllerBaseDefaultBorderRadius
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerBase
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFilled
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFullWidth
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyDefault
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyFullWidth
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlined
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlinedTextArea
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerUnderline
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputUnderlineView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbTrack
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbView
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalColorScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalPalette
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTriangleEdgeTreatment
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypography
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypographyScheme
+	/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/MaterialComponents.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper

@@ -12,7 +12,8 @@
         
         <Label Text="More..." HorizontalTextAlignment="Center"/>
 
-        <Button Text="List Item Click" Command="{Binding ButtonCommand}"/>
+        <Button Text="List Item Click" Command="{Binding ButtonCommand}" CommandParameter="1"/>
+        <Button Text="Tabbed Page" Command="{Binding ButtonCommand}" CommandParameter="2"/>
         
     </StackLayout>
 </ContentPage>

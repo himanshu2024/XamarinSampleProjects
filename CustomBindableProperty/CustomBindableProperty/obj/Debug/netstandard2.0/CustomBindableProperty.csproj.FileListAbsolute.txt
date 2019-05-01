@@ -14,3 +14,4 @@
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty/obj/Debug/netstandard2.0/CustomBindableProperty.pdb
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty/obj/Debug/netstandard2.0/CustomBindableProperty.csprojAssemblyReference.cache
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty/obj/Debug/netstandard2.0/Views/MyListPage.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty/obj/Debug/netstandard2.0/Views/MyTabbedPage.xaml.g.cs

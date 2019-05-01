@@ -60,3 +60,6 @@
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/CustomBindableProperty.iOS.exe
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/CustomBindableProperty.iOS.pdb
 /Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/p2.png
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Material.dll
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Material.pdb
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/CustomBindableProperty/CustomBindableProperty.iOS/bin/iPhoneSimulator/Debug/MaterialComponents.dll
