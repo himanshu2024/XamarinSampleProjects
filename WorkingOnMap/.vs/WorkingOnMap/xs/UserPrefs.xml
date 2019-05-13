@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{6D9A8949-EF2E-4FD7-B106-B38986B6CFC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingOnMap/ViewModels/MainPageViewModel.cs">
+    <Files>
+      <File FileName="WorkingOnMap/Views/MainPage.xaml.cs" Line="20" Column="79" />
+      <File FileName="WorkingOnMap/Views/MainPage.xaml" />
+      <File FileName="WorkingOnMap/ViewModels/MainPageViewModel.cs" Line="23" Column="1" />
+      <File FileName="WorkingOnMap/App.xaml.cs" Line="13" Column="64" />
+      <File FileName="WorkingOnMap/Views/FormsMapPage.xaml" />
+      <File FileName="WorkingOnMap/Views/FormsMapPage.xaml.cs" Line="122" Column="1" />
+      <File FileName="WorkingOnMap/ViewModels/FormsMapPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="WorkingOnMap.iOS/AppDelegate.cs" Line="26" Column="38" />
+      <File FileName="WorkingOnMap.Android/MainActivity.cs" Line="2" Column="1" />
+      <File FileName="WorkingOnMap.Android/Properties/AndroidManifest.xml" Line="13" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingOnMap" expanded="True">
+            <Node name="WorkingOnMap" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainPageViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="FormsMapPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WorkingOnMap.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="WorkingOnMap.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkingOnMap.Android PreferredExecutionTarget="Android.Nexus_7_Tab_API_P" />
+  <MonoDevelop.Ide.ItemProperties.WorkingOnMap.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CC25EABF-A2DB-4CFF-BA62-32ECBD0D6E61" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

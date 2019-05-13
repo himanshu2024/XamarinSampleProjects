@@ -9,15 +9,8 @@
         <State name="__root__">
           <Node name="CustomBindableProperty" expanded="True">
             <Node name="CustomBindableProperty" expanded="True">
-              <Node name="Behaviors" expanded="True" />
-              <Node name="CustomViews" expanded="True">
-                <Node name="CircularButton2View.xaml" expanded="True" />
-                <Node name="ImageButtonView.xaml" expanded="True" />
-              </Node>
-              <Node name="Events" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="MyTabbedPage.xaml" expanded="True" selected="True" />
+                <Node name="MyTabbedPage.xaml" selected="True" />
               </Node>
             </Node>
           </Node>

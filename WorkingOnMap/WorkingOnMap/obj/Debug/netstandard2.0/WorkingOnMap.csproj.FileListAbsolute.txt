@@ -1,0 +1,13 @@
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.csprojAssemblyReference.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.csproj.CoreCompileInputs.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.AssemblyInfoInputs.cache
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.AssemblyInfo.cs
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/bin/Debug/netstandard2.0/WorkingOnMap.deps.json
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/bin/Debug/netstandard2.0/WorkingOnMap.dll
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/bin/Debug/netstandard2.0/WorkingOnMap.pdb
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.dll
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/WorkingOnMap.pdb
+/Users/himanshuchaurasiya/Projects/MyGitProject/XamarinSamples/XamarinSampleProjects/WorkingOnMap/WorkingOnMap/obj/Debug/netstandard2.0/Views/FormsMapPage.xaml.g.cs
