@@ -1,0 +1,7 @@
+
+*.ide
+CustomBindableProperty/.vs/CustomBindableProperty/xs/UserPrefs.xml
+CustomBindableProperty/.vs/CustomBindableProperty/xs/sqlite3/storage.ide
+CustomBindableProperty/CustomBindableProperty.Android/obj/Debug/CustomBindableProperty.Android.csprojAssemblyReference.cache
+CustomBindableProperty/CustomBindableProperty.iOS/obj/iPhoneSimulator/Debug/CustomBindableProperty.iOS.csprojAssemblyReference.cache
+WorkingOnMap/.vs/WorkingOnMap/xs/sqlite3/storage.ide
