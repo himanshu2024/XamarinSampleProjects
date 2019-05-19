@@ -11,6 +11,8 @@ namespace WorkingOnDatabase.Database
     {
         private string _dbPath;
         public DbSet<Item> items { get; set; }
+        public DbSet<Address> address { get; set; }
+
 
         /// <summary>
         /// Initializes a new instance of the <see cref="T:WorkingOnDatabase.Database.Repo"/> class.
@@ -101,6 +103,28 @@ namespace WorkingOnDatabase.Database
             }
 
             return true;
+        }
+
+        public async void QueryExample()
+        {
+            try
+            {
+                var dd = (from m1 in items
+                          join m2 in address
+                          on m1.Text equals m2.Text
+                          where m1.Id == 1
+                          select new
+                          {
+                              field1 = m1.Text,
+                              field2 = m1.Description,
+                              someField = m2.Category
+                          }).ToList();
+                var x = await Database.ExecuteSqlCommandAsync("SELECT * FROM Item");
+            }
+            catch(Exception e)
+            {
+
+            }
         }
 
     }

@@ -1,12 +1,14 @@
-﻿<Properties StartupConfiguration="{696C904B-903C-4887-ADE5-3F851177B39D}|Default">
-  <MonoDevelop.Ide.ItemProperties.WorkingOnDatabase.Android PreferredExecutionTarget="Android.Nexus_7_Tab_API_P" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingOnDatabase/ViewModels/MainViewModel.cs">
+﻿<Properties StartupConfiguration="{BB5AD90E-DE58-4498-B082-1E6A0A1FED1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkingOnDatabase.Android PreferredExecutionTarget="Android.Phone_API_O" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingOnDatabase/Database/Repo.cs">
     <Files>
-      <File FileName="WorkingOnDatabase/Views/AddEditPage.xaml.cs" Line="18" Column="39" />
+      <File FileName="WorkingOnDatabase/Views/AddEditPage.xaml.cs" Line="32" Column="44" />
       <File FileName="WorkingOnDatabase/ViewModels/AddEditViewModel.cs" Line="68" Column="75" />
-      <File FileName="WorkingOnDatabase/Database/Models/Item.cs" Line="17" Column="16" />
+      <File FileName="WorkingOnDatabase/Database/Models/Item.cs" Line="9" Column="37" />
       <File FileName="WorkingOnDatabase/Views/MainPage.xaml" />
-      <File FileName="WorkingOnDatabase/ViewModels/MainViewModel.cs" Line="19" Column="28" />
+      <File FileName="WorkingOnDatabase/ViewModels/MainViewModel.cs" Line="31" Column="45" />
+      <File FileName="WorkingOnDatabase/Database/Repo.cs" Line="112" Column="43" />
+      <File FileName="WorkingOnDatabase/Database/Address.cs" Line="8" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,17 +18,22 @@
               <Node name="Dependencies" expanded="True" />
               <Node name="Database" expanded="True">
                 <Node name="Models" expanded="True" />
+                <Node name="Repo.cs" selected="True" />
               </Node>
-              <Node name="ViewModels" expanded="True">
-                <Node name="MainViewModel.cs" selected="True" />
-              </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="AddEditPage.xaml" expanded="True" />
                 <Node name="MainPage.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="WorkingOnDatabase.Android" expanded="True" />
+            <Node name="WorkingOnDatabase.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable-hdpi" expanded="True" />
+                <Node name="drawable-xhdpi" expanded="True" />
+                <Node name="drawable-xxhdpi" expanded="True" />
+              </Node>
+            </Node>
             <Node name="WorkingOnDatabase.iOS" expanded="True">
               <Node name="Resources" expanded="True" />
             </Node>
