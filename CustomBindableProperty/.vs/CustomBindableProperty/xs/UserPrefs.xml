@@ -13,6 +13,10 @@
                 <Node name="MyTabbedPage.xaml" selected="True" />
               </Node>
             </Node>
+            <Node name="CustomBindableProperty.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

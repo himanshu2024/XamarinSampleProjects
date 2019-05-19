@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:WorkingOnDatabase" x:Class="WorkingOnDatabase.Views.MainPage"
+             Title="Todo"
+             x:Name="currentPage">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="add_button.png" Order="Primary" Command="{Binding AddCommand}" />
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout>
+        <!-- Place new controls here -->
+        <ListView ItemsSource="{Binding ItemList}" HasUnevenRows="true">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10" Margin="10,0,0,0">
+                            <Label Text="{Binding Text}" FontAttributes="Bold"/>
+                            <Label Text="{Binding Description}"/>
+                            
+                            
+                            <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference currentPage}, Path=BindingContext.ItemClicked}" NumberOfTapsRequired="1" CommandParameter="{Binding .}" />
+                                </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+    </StackLayout>
+</ContentPage>

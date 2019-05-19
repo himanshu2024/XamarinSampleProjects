@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="WorkingOnDatabase.Views.AddEditPage"
+             Title="{Binding Title}">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Order="Primary" Command="{Binding SaveCommand}" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Title"/>
+            <Entry Text="{Binding TextValue, Mode=TwoWay}"/>
+            
+            <Label Text="Details"/>
+            <Editor Text="{Binding DetailValue, Mode=TwoWay}" MinimumHeightRequest="200"/>
+            
+            <Label Text="Select Category"/>
+            <Picker ItemsSource="{Binding CategoryList}" SelectedIndex="{Binding CategorySelectIndex}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
